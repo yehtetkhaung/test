@@ -9,4 +9,4 @@ Hello *world!*
 df = pd.read_csv("carprices.csv")
 st.area_chart(df)
 st.line_chart(df)
-sr.bar_chart(df)
+st.bar_chart(df)
